@@ -374,6 +374,16 @@ It started with small, self-contained tools (a password generator, a weather app
   <strong>View GitHub Profile →</strong>
 </a>
 
+<br/><br/>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/adityak71/adityak71/main/profile-summary-card-output/profile-details.svg"
+    width="95%"
+    alt="GitHub Profile Summary"
+  />
+</p>
+
 </div>
 
 </div>
