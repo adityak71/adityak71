@@ -371,7 +371,7 @@ It started with small, self-contained tools (a password generator, a weather app
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/adityak71/adityak71/output/profile-summary-card-output/github_dark/3-stats.svg"
+  src="https://raw.githubusercontent.com/adityak71/adityak71/main/profile-summary-card-output/github_dark/3-stats.svg"
   width="75%"
   alt="GitHub Statistics"
 />
