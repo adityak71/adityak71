@@ -370,19 +370,17 @@ It started with small, self-contained tools (a password generator, a weather app
 
 <div align="center">
 
-<a href="https://github.com/adityak71">
-  <strong>View GitHub Profile →</strong>
-</a>
+<img
+  src="https://raw.githubusercontent.com/adityak71/adityak71/output/profile-summary-card-output/github_dark/3-stats.svg"
+  width="75%"
+  alt="GitHub Statistics"
+/>
 
 <br/><br/>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/adityak71/adityak71/main/profile-summary-card-output/profile-details.svg"
-    width="95%"
-    alt="GitHub Profile Summary"
-  />
-</p>
+<a href="https://github.com/adityak71">
+  <strong>View GitHub Profile →</strong>
+</a>
 
 </div>
 
