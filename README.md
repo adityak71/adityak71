@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%7C%20Full-Stack%20Developer%20%7C%20CSE%20%40%20LPU&descAlignY=58&descSize=18" alt="header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aditya%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack Developer%20%7C%20Software%20Engineer%20%7C%20CSE%20%40%20LPU&descAlignY=58&descSize=18" alt="header banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=I+build+full-stack+apps+end-to-end;React+%2B+Node.js+%2B+PostgreSQL+%2B+Prisma;Currently+solving+DSA+on+LeetCode;Learning+by+shipping+real+projects" alt="typing animation" />
 
