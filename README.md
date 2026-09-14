@@ -272,10 +272,11 @@ I don't currently have enough verified information about Devnosis — no public 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=adityak71&show_icons=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9"
-  width="49%"
-  alt="Aditya's GitHub Statistics"
+  src="https://raw.githubusercontent.com/adityak71/adityak71/main/profile-summary-card-output/github_dark/3-stats.svg"
+  width="75%"
+  alt="GitHub Statistics"
 />
+
 
 <img
   src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=adityak71&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9"
@@ -370,13 +371,6 @@ It started with small, self-contained tools (a password generator, a weather app
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/adityak71/adityak71/main/profile-summary-card-output/github_dark/3-stats.svg"
-  width="75%"
-  alt="GitHub Statistics"
-/>
-
-<br/><br/>
 
 <a href="https://github.com/adityak71">
   <strong>View GitHub Profile →</strong>
