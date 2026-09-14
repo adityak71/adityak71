@@ -340,6 +340,7 @@ It started with small, self-contained tools (a password generator, a weather app
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&width=800" alt="divider"/>
 </div>
 
+
 ## 🐍 GitHub Contribution Activity
 
 <div align="center">
@@ -360,13 +361,20 @@ It started with small, self-contained tools (a password generator, a weather app
     width="95%"
     alt="GitHub Contribution Snake"
   />
+
 </picture>
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <a href="https://github.com/adityak71">
   <strong>View GitHub Profile →</strong>
 </a>
+
+</div>
 
 </div>
 
